@@ -156,6 +156,14 @@ footer form button:hover, header form button:hover {
     background: #e65b00;
 }
 
+.social-media-links a {
+    margin: 0 10px;
+    color: #45beff;
+    text-decoration: none;
+    font-size: 1.2em;
+    font-style: oblique;
+}
+
 /* Scroll animations */
 @keyframes fadeIn {
     0% {
